@@ -18,4 +18,4 @@ Sample project audio effect: Equalizer, delay, reverd, pitch
 
 Preview
 
-![Preview image](https:github.com/zaynald/GOdot_app/blob/master/audio.png)
+![Preview image](https://github.com/zaynald/GOdot_app/blob/master/audio.png)
